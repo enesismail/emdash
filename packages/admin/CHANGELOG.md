@@ -1,5 +1,16 @@
 # @emdash-cms/admin
 
+## 1.1.0
+
+### Minor Changes
+
+- [#3594](https://github.com/emdash-cms/emdash/pull/3594) [`5346dc8`](https://github.com/emdash-cms/emdash/commit/5346dc80750d8d3e25338e058597890fe79724d6) Thanks [@khoinguyenpham04](https://github.com/khoinguyenpham04)! - Adds image drag-and-drop and paste to the Portable Text editor. Dropped image files and pasted images or screenshots upload to the Media Library and are inserted between blocks, with a preview shown while each upload runs and the upload error shown in place if it fails. Pasting rich content from apps such as Word is unchanged.
+
+### Patch Changes
+
+- Updated dependencies []:
+  - @emdash-cms/blocks@1.1.0
+
 ## 1.0.1
 
 ### Patch Changes
